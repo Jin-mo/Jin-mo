@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jin-mo
-- 👀 I’m interested in MySQL and other coding languages.
-- 🌱 I’m currently learning python and MySQL.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python and other coding languages.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on beginner python projects.
 - 📫 How to reach me ...
 
 <!---
