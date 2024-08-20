@@ -1,7 +1,4 @@
-- I’m interested in Python and other coding languages.
-- I'm interested in Pentesting and Networking.
-- I’m currently learning python and C.
-- I’m looking to collaborate on beginner python projects.
+404
 
 <!---
 Jin-mo/Jin-mo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
